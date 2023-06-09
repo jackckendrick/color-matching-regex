@@ -19,7 +19,7 @@ The user will need to view the tutorial on the GitHub repository. No excessive p
 # Usage
 The Color-Matching-Regex tutorial is intended to be used to help the user learn and implement regex components into their code. 
 
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project. - https://github.com/avanijadeja/note-taker
+The URL of the GitHub repository. Give the repository a unique name and include a README describing the project. - https://github.com/jackckendrick/color-matching-regex
 
 
 
@@ -28,17 +28,15 @@ The URL of the GitHub repository. Give the repository a unique name and include 
 
 ## Credits
 
-for this application, I read from different website as under,
+I used the following websites to help create the hexadecimal regex tutorial: 
 
-1. https://www.npmjs.com/package/uuid
+1. https://www.geeksforgeeks.org/how-to-validate-hexadecimal-color-code-using-regular-expression/
 
-2. https://expressjs.com
+2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet
 
-3. https://www.w3schools.com
+3. https://www.w3schools.com/jsref/jsref_obj_regexp.asp
 
-4. https://nodejs.org/en/docs
 
-5. https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql
 
 ## License
 This project is using the MIT License.
